@@ -16,4 +16,5 @@ The dotnet command has two functions:
 - [Build](./commands/build.md)
 - [Solutions](./commands/solutions.md)
 - [Restore](./commands/restore.md)
+- [Test](./commands/test.md)
 - [Clean](./commands/clean.md)
