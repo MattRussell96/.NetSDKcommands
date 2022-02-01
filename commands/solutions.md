@@ -1,9 +1,9 @@
-# Solutions Function
+# DotNet Solution
 
-dotnet sln -  Lists or modifies the projects in a .NET solution file.
+Dotnet sln -  Lists or modifies the projects in a .NET solution file.
 The dotnet sln command provides a convenient way to list and modify projects in a solution file.
 
-## How to call on the sln command.  
+## How to call on the Solution Command.  
 
 To use the dotnet sln command, the solution file must already exist. If you need to create one, use the dotnet new command, as in the following example: dotnet new sln
 

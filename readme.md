@@ -18,3 +18,5 @@ The dotnet command has two functions:
 - [Restore](./commands/restore.md)
 - [Test](./commands/test.md)
 - [Clean](./commands/clean.md)
+- [Format](./commands/format.md)
+- [Run](./commands/run.md)

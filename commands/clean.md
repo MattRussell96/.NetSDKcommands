@@ -1,4 +1,5 @@
-# Clean Function
+# DotNet Clean
+
 The dotnet clean command will help clean out the output of your previous build.
 The command will only clean the outputs of the previous build.
 If you do not specify which projects or solution file you want to be cleaned out, the command will search the current directory for a file with the extension of .proj or .sln to clean the outputs of.
