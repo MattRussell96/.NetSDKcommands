@@ -1,4 +1,4 @@
-# This is the build command
+# DotNet Build
 This command when called builds your .NET project.
 
 
