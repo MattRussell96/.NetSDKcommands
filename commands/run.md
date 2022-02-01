@@ -8,4 +8,8 @@ To call on the add command you use "dotnet run".
 
 ## Resources
 
-- [.Net Run Documentation]()
+- [.Net Run Documentation](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-run)
+
+---
+
+[Back To Home](../readme.md)
